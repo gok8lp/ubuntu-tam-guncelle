@@ -5,7 +5,7 @@ Ubuntu'yu tek komutla baştan sona günceller.
 ## Kullanım
 
 ```bash
-git clone <bu-repo> && cd ubuntu-tam-guncelle
+git clone https://github.com/gok8lp/ubuntu-tam-guncelle.git && cd ubuntu-tam-guncelle
 ./guncelle.sh
 ```
 
